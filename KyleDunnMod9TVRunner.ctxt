@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=KyleDunnMod9TVRunner
+comment0.text=\r\n\ Name\:\ KyleDunnMod9TVRunner\ \r\n\ \r\n\ Author\:\ Kyle\ Dunn\r\n\ \r\n\ Date\:\ 12/20/22\r\n\ \r\n\ What\ this\ program\ does\:\ Lets\ the\ user\ control\ their\ TV\r\n\ \r\n\ What\ I\ learned\:\ Reviewed\ object\ creation\ with\ Java\r\n\ \r\n\ Problems\ I\ had\:\ None\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
